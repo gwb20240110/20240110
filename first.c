@@ -1,6 +1,8 @@
 #include<stdio.h>
 
 int main(){
-	printf("test output\n");
+	
+	printf("1 message");
+	printf("2 message");
 	return 0;
 }
