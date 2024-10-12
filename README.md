@@ -52,3 +52,21 @@
 |八戒|456|2|
 |悟净|123|3|
 
+##插入代码片段
+  使用\`\`\`语言，开头，以\`\`\`结束，之间直接插入代码片段即可
+```c
+        #incldue<stdio.h>
+
+	int main(){
+	printf("hello word\n");
+	return 0;
+	}
+```
+
+```bash
+       pwd
+       echo "xxx"
+       cd pwd
+       ps aux
+```
+
